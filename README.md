@@ -72,12 +72,14 @@ To run the server with the MCP Inspector for development:
  - uv run query_optimizer_mcp_client.py
 
 ## Optimization report is generated in the required format
-![image](https://github.com/user-attachments/assets/bf74d560-73f9-4e77-af53-1a78c2de0c18)
 
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/1805edb9-0334-4451-999b-b446fc013fec" />
 
 ## Optimization Report generated for a Sql query
 
-![image](https://github.com/user-attachments/assets/f1c50eb2-e82e-4da0-b093-256761ac58a4)
+ 
+
+![image](https://github.com/user-attachments/assets/3b9d6045-eea8-4182-b2f5-c5f750299585)
 
 
 ## Tool Integration and Configuration
