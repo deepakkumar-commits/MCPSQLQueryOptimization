@@ -1,0 +1,19 @@
+{
+    "mcpServers": {
+      "queryoptimizer": {
+        "command": "uv",
+        "args": [
+          "run",
+          "--with",
+          "mcp[cli]",
+          "--with", 
+          "langchain",
+           "--with",
+          "langchain-openai",
+          "mcp",
+          "run",
+          "/Users/deekumar10/mcpdemo/query_optimizer_mcp_server.py"
+        ]
+      }
+    }
+  }
